@@ -12,7 +12,7 @@ const guestListStyles = css`
 `;
 
 function App() {
-  const baseUrl = 'http://guest-list-lukasm.herokuapp.com';
+  const baseUrl = 'https://guest-list-lukasm.herokuapp.com';
 
   // Input values
   const [first, setFirst] = useState('');
